@@ -2,7 +2,7 @@
 layout: post
 title:  "Catalyst Circle Meeting #1"
 date:   2021-07-12 11:47:36 +0100
-categories: jekyll update
+categories: Catalyst Circle
 ---
 
 ![Catalyst Circle](/assets/Catalyst-Circle.png)
