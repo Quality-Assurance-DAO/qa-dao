@@ -6,6 +6,15 @@ categories: jekyll update
 ---
 The Distributed Autonomous Organization of Quality Assurance.
 
+## What is Quality Assurance DAO ?
+Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. QA-DAOs own GitHub Organization is at https://github.com/Quality-Assurance-DAO.
+
+## Documentation
+QA-DAO designs and maintains documentation in open-source GitHub repositories for the Catalyst Circle, Catalyst Swarm, The Catalyst Alliance and The Catalyst School.
+
+## Transparent Governance
+QA-DAO reports on and tracks Catalyst Governance experiments such as the Catalyst Circle.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
