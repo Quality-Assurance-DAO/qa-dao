@@ -5,6 +5,6 @@ date:   2021-07-12 11:47:36 +0100
 categories: Catalyst Circle
 ---
 
-![Catalyst Circle]({{ site.baseurl}}/assets/Catalyst-Circle.png)
+![Catalyst Circle](Catalyst-Circle.png)
 
 On July 12th 2021, the first meeting of the Catalyst Circle took place.
