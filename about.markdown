@@ -5,6 +5,8 @@ permalink: /about/
 ---
 ![Catalyst Circle](https://quality-assurance-dao.github.io/qa-dao/assets/bee.jpg)
 
+{% link /assets/bee.jpg %}
+
 ## What is Quality Assurance DAO ?
 Quality Assurance DAO (QA-DAO) is an ongoing open source project that provides support for the Cardano Project Catalyst Community. QA-DAOs own GitHub Organization is at https://github.com/Quality-Assurance-DAO.
 
