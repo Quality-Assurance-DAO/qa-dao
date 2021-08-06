@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Quality Assurance DAO"
 date:   2021-08-06 11:47:36 +0100
-categories: jekyll update
+categories: qa-dao
 ---
 The Distributed Autonomous Organization of Quality Assurance.
 
