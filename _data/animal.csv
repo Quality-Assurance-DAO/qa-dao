@@ -1,24 +1,23 @@
-Name	Fund	Types: Stage	Phase	Note	Start Date	Start Time UTC	End Date	Duration	Start Date Passed	End Date Passed	In Progress	Completed	Not Started
-F05 . S01 - Insight Sharing	F05	S01	P1 - Innovation		"March 31, 2021"	19:00	"April 7, 2021"	7 Days	1	1	0	1	0
-F05 . S03 - Submission	F05	S03	P1 - Innovation		"April 7, 2021"	19:00	"April 14, 2021"	7 Days	1	1	0	1	0
-F05 . S04 - Refine	F05	S04	P1 - Innovation		"April 14, 2021"	19:00	"April 21, 2021"	7 Days	1	1	0	1	0
-F05 . S05 - Finalize	F05	S05	P1 - Innovation		"April 21, 2021"	19:00	"April 28, 2021"	7 Days	1	1	0	1	0
-F05 . S06 - Assess	F05	S06	P1 - Innovation		"April 28, 2021"	19:00	"May 12, 2021"	14 Days	1	1	0	1	0
-F05 . S07 - Assess QA	F05	S07	P1 - Innovation		"May 12, 2021"	19:00	"May 26, 2021"	14 Days	1	1	0	1	0
-F05 . S08 - Register Proposals and Voters	F05	S08	P2 - Governance		"July 8, 2021"	16:00	"July 19, 2021"	7 Days	1	1	0	1	0
-F05 . S09 - Snapshot	F05	S09	P2 - Governance		"July 19, 2021"	11:00	"July 22, 2021"	3 Days	1	1	0	1	0
-F05 . S10 - Voting	F05	S10	P2 - Governance		"July 22, 2021"	11:00	"August 2, 2021"	7 Days	1	1	0	1	0
-F05 . S11 - Tallying	F05	S11	P2 - Governance		"August 2, 2021"	11:00	"August 9, 2021"	7 Days	1	0	1	0	0
-F05 . S12 - Rewarding	F05	S12	P3 - Execution		"August 9, 2021"	19:00	"August 19, 2021"	7 Days	0	0	0	0	1
-F06 . S01 - Insight Sharing	F06	S01	P1 - Innovation		"August 12, 2021"	11:00	"August 19, 2021"	7 Days	0	0	0	0	1
-F06 . S03 - Submission	F06	S03	P1 - Innovation		"August 19, 2021"	11:00	"August 26, 2021"	7 Days	0	0	0	0	1
-F06 . S04 - Refine	F06	S04	P1 - Innovation		"August 26, 2021"	11:00	"September 2, 2021"	7 Days	0	0	0	0	1
-F06 . S05 - Finalize	F06	S05	P1 - Innovation		"September 2, 2021"	11:00	"September 9, 2021"	7 Days	0	0	0	0	1
-F06 . S06 - Assess	F06	S06	P1 - Innovation		"September 9, 2021"	11:00	"September 16, 2021"	7 Days	0	0	0	0	1
-F06 . S07 - Assess QA	F06	S07	P1 - Innovation		"September 16, 2021"	11:00	"September 30, 2021"	14 Days	0	0	0	0	1
-F06 . S08 - Register Proposals and Voters	F06	S08	P2 - Governance		"August 12, 2021"	11:00	"September 30, 2021"	20 Days	0	0	0	0	1
-F06 . S09 - Snapshot	F06	S09	P2 - Governance					2 Days	0	0	0	0	1
-F06 . S10 - Voting	F06	S10	P2 - Governance					14 Days	0	0	0	0	1
-F06 . S11 - Tallying	F06	S11	P2 - Governance					7 Days	0	0	0	0	1
-F06 . S12 - Rewarding	F06	S12	P3 - Execution					7 Days	0	0	0	0	1
-
+Name,Fund,Types: Stage,Phase,Note,Start Date,Start Time UTC,End Date,Duration,Start Date Passed,End Date Passed,In Progress,Completed,Not Started
+F05 . S01 - Insight Sharing,F05,S01,P1 - Innovation,,"March 31, 2021",19:00,"April 7, 2021",7 Days,1,1,0,1,0
+F05 . S03 - Submission,F05,S03,P1 - Innovation,,"April 7, 2021",19:00,"April 14, 2021",7 Days,1,1,0,1,0
+F05 . S04 - Refine,F05,S04,P1 - Innovation,,"April 14, 2021",19:00,"April 21, 2021",7 Days,1,1,0,1,0
+F05 . S05 - Finalize,F05,S05,P1 - Innovation,,"April 21, 2021",19:00,"April 28, 2021",7 Days,1,1,0,1,0
+F05 . S06 - Assess,F05,S06,P1 - Innovation,,"April 28, 2021",19:00,"May 12, 2021",14 Days,1,1,0,1,0
+F05 . S07 - Assess QA,F05,S07,P1 - Innovation,,"May 12, 2021",19:00,"May 26, 2021",14 Days,1,1,0,1,0
+F05 . S08 - Register Proposals and Voters,F05,S08,P2 - Governance,,"July 8, 2021",16:00,"July 19, 2021",7 Days,1,1,0,1,0
+F05 . S09 - Snapshot,F05,S09,P2 - Governance,,"July 19, 2021",11:00,"July 22, 2021",3 Days,1,1,0,1,0
+F05 . S10 - Voting,F05,S10,P2 - Governance,,"July 22, 2021",11:00,"August 2, 2021",7 Days,1,1,0,1,0
+F05 . S11 - Tallying,F05,S11,P2 - Governance,,"August 2, 2021",11:00,"August 9, 2021",7 Days,1,0,1,0,0
+F05 . S12 - Rewarding,F05,S12,P3 - Execution,,"August 9, 2021",19:00,"August 19, 2021",7 Days,0,0,0,0,1
+F06 . S01 - Insight Sharing,F06,S01,P1 - Innovation,,"August 12, 2021",11:00,"August 19, 2021",7 Days,0,0,0,0,1
+F06 . S03 - Submission,F06,S03,P1 - Innovation,,"August 19, 2021",11:00,"August 26, 2021",7 Days,0,0,0,0,1
+F06 . S04 - Refine,F06,S04,P1 - Innovation,,"August 26, 2021",11:00,"September 2, 2021",7 Days,0,0,0,0,1
+F06 . S05 - Finalize,F06,S05,P1 - Innovation,,"September 2, 2021",11:00,"September 9, 2021",7 Days,0,0,0,0,1
+F06 . S06 - Assess,F06,S06,P1 - Innovation,,"September 9, 2021",11:00,"September 16, 2021",7 Days,0,0,0,0,1
+F06 . S07 - Assess QA,F06,S07,P1 - Innovation,,"September 16, 2021",11:00,"September 30, 2021",14 Days,0,0,0,0,1
+F06 . S08 - Register Proposals and Voters,F06,S08,P2 - Governance,,"August 12, 2021",11:00,"September 30, 2021",20 Days,0,0,0,0,1
+F06 . S09 - Snapshot,F06,S09,P2 - Governance,,,,,2 Days,0,0,0,0,1
+F06 . S10 - Voting,F06,S10,P2 - Governance,,,,,14 Days,0,0,0,0,1
+F06 . S11 - Tallying,F06,S11,P2 - Governance,,,,,7 Days,0,0,0,0,1
+F06 . S12 - Rewarding,F06,S12,P3 - Execution,,,,,7 Days,0,0,0,0,1
