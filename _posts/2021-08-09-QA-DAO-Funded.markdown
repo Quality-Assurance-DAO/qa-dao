@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quality Assurance Funded"
+title:  "Quality Assurance DAO Funded"
 date:   2021-08-09 11:47:36 +0100
 categories: QA DAO
 ---
